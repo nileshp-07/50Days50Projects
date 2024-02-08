@@ -6,6 +6,7 @@ Welcome to my "50 Days 50 Projects" repository! This repository contains a colle
 1. **Day 1: Expanding Cards**
    - Description: The "Expanding Cards" project is an interactive web component that elegantly displays a set of cards. Clicking on a card smoothly expands it,
                   revealing additional content and creating a visually engaging user interface. Built with HTML, CSS, and JavaScript, this project offers a responsive and dynamic user experience.
+     <br>
    [live demo](https://project-01-expanding-card-nileshp-07.vercel.app/)
 
 ## Getting Started
