@@ -9,10 +9,10 @@ Welcome to my 50 Days 50 Projects Challenge repository! In this challenge, I'll 
      <br>
    [live demo](https://project-01-expanding-card-nileshp-07.vercel.app/)
 
-1. **Day 1: Progress Steps**
+1. **Day 2: Progress Steps**
    - Description: Interactive progress bar with 'Prev' and 'Next' buttons.
      <br>
-   [live demo](https://project-2-progress-steps-nileshp-07.vercel.app/)
+   [live demo](https://project-02-progress-steps-nileshp-07.vercel.app/)
 
 
 
