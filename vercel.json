@@ -1,0 +1,8 @@
+{
+  "routes": [
+    { "src": "/expanding-cards/(.*)", "dest": "/ExpandingCards/$1" },
+    { "src": "/progress-steps/(.*)", "dest": "/ProgressSteps/$1" },
+    { "src": "/rotating-navigation/(.*)", "dest": "/RotatingNavigation/$1" },
+    { "src": "/(.*)", "dest": "/$1" } // Default route to handle other paths
+  ]
+}
