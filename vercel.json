@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/expanding-cards/(.*)", "destination": "/ExpandingCards/$1" },
+    { "source": "/progress-steps/(.*)", "destination": "/ProgressSteps/$1" },
+    { "source": "/(.*)", "destination": "/$1" } 
+  ]
+}
