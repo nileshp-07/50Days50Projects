@@ -17,7 +17,8 @@ Welcome to my 50 Days 50 Projects Challenge repository! In this challenge, I'll 
 3. **Day 3: Rotating Navigation**
    - Description: "RotatingNavigation" is an elegant website navigation concept that smoothly transforms between a compact menu and an expanded view for a modern user experience..
      <br>
-   [live demo](https://project-03-rotating-navigation-nileshp-07.vercel.app/)
+   <!-- [live demo](https://project-03-rotating-navigation-nileshp-07.vercel.app/) -->
+
 
 
 
