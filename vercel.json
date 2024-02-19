@@ -10,7 +10,7 @@
     { "handle": "filesystem" },
     { "src": "/expanding-cards/(.*)", "dest": "/ExpandingCards/$1" },
     { "src": "/progress-steps/(.*)", "dest": "/ProgressSteps/$1" },
-    { "src": "/rotating-Navigation/(.*)", "dest": "/RotatingNavigation/$1" }
+    { "src": "/rotating-Navigation/(.*)", "dest": "/RotatingNavigation/$1" },
     { "src": "/blurry-loading/(.*)", "dest": "/BlurryLoading/$1" }
   ]
 }
