@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "/expanding-cards/**", "use": "@vercel/static" },
+    { "src": "/progress-steps/**", "use": "@vercel/static" },
+    { "src": "/rotating-navigation/**", "use": "@vercel/static" },
+    { "src": "/blurry-loading/**", "use": "@vercel/static" }
+  ],
+  "routes": [
+    { "handle": "filesystem" },
+    { "src": "/expanding-cards/(.*)", "dest": "/ExpandingCards/$1" },
+    { "src": "/progress-steps/(.*)", "dest": "/ProgressSteps/$1" },
+    { "src": "/rotating-Navigation/(.*)", "dest": "/RotatingNavigation/$1" },
+    { "src": "/blurry-loading/(.*)", "dest": "/BlurryLoading/$1" }
+  ]
+}
