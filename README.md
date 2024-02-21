@@ -1,4 +1,4 @@
-# 50 Days 50 Projects
+<!--# 50 Days 50 Projects
 Welcome to my 50 Days 50 Projects Challenge repository! In this challenge, I'll be creating 50 projects, and here's a list of the completed projects:
 <!-- Welcome to my "50 Days 50 Projects" repository! This repository contains a collection of projects created as part of the challenge to build one project each day for 50 days. -->
 
@@ -32,3 +32,4 @@ If you have any ideas, suggestions, or improvements, feel free to contribute! Fo
 ---
 
 Happy coding!
+-->
